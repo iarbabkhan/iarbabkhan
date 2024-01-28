@@ -21,10 +21,83 @@
 - ⚡ Fun fact **Did you know? in the world of DevOps, we're not just breaking down silos; we're building bridges between teams! 🌉**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- **Programming languages**:
 
-<br>
+   <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+   </tbody>
+   </table>
+
+- **Operating Systems**:
+
+  <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗪𝗶𝗻𝗱𝗼𝘄𝘀</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg">
+       </td>
+    </tr>
+   </tbody>
+   </table>
+
+- **Cloud Hosting**:
+
+   <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝐀𝐰𝐬</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+    </tr>
+   </tbody>
+   </table>
+
+- **Softwares and Tools**:
+
+   <table>
+   <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝐆𝐢𝐭</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝐀𝐧𝐬𝐢𝐛𝐥𝐞</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/ansible.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+      </td>    
+       <td width="25%" align="center">
+        <span>𝐉𝐞𝐧𝐤𝐢𝐧𝐬</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/jenkins.svg">
+      </td>        
+      <td width="25%" align="center">
+        <span>𝐃𝐨𝐜𝐤𝐞𝐫</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+       </td> 
+      <td width="25%" align="center">
+        <span>𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬</span><br><br>
+        <img height="45px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+       </td> 
+    </tr>
+   </tbody>
+   </table>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -35,4 +108,5 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/iamarbabkhan">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
+<p align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarbabkhan&" alt="iamarbabkhan" /></p>
