@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamarbabkhan.github.io/](https://iamarbabkhan.github.io/)
 
-- 💬 Ask me about **Version control, Configuration management, IAC, CI/CD, Containerization.**
+- 💬 Ask me about **AWS, DevOps, Version control, Configuration management, IAC, CI/CD, Containerization.**
 
 - 📫 How to reach me **arbabkhan579@gmail.com**
 
