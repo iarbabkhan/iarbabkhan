@@ -4,11 +4,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 I’m currently working on **MEIL**
 
-- 🌱 I’m currently learning **Python,AWS**
+- 🌱 I’m currently learning **DevOps, Cloud and Python**
 
-- 👯 I’m looking to collaborate on **Continuous Integration/Continuous Deployment (CI/CD)**
-
-- 🤝 I’m looking for help with **Kubernetes**
+- 🤝 I’m looking for help with **AWS & Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://iamarbabkhan.github.io/](https://iamarbabkhan.github.io/)
 
