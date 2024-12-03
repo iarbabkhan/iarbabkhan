@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arbabkhan579@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17z1vbzSjaznqXpMUbtGae8SlhBnQGq6V/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AHXqEyjuiYQx78na8ELr_mZjhoYrwyFT/view?usp=share_link)
 
 - ⚡ Fun fact **Did you know? in the world of DevOps, we're not just breaking down silos; we're building bridges between teams! 🌉**
 
