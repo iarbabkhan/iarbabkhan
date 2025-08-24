@@ -24,37 +24,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - **Softwares and Tools**:
-
-   <table>
-   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝐆𝐢𝐭</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝐀𝐧𝐬𝐢𝐛𝐥𝐞</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/ansible.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
-      </td>    
-       <td width="25%" align="center">
-        <span>𝐉𝐞𝐧𝐤𝐢𝐧𝐬</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/jenkins.svg">
-      </td>        
-      <td width="25%" align="center">
-        <span>𝐃𝐨𝐜𝐤𝐞𝐫</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-       </td> 
-      <td width="25%" align="center">
-        <span>𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
-       </td> 
-    </tr>
-   </tbody>
-   </table>
+- 
+   <table> <tbody> <tr valign="top"> <td width="25%" align="center"> <span><b>Primavera P6</b></span><br><br> <img height="45px" src="https://play-lh.googleusercontent.com/z87Px8yV2bVg3QHSIXWUxsitJidAugYKpXIiL2vaKaKe-3TjaEAPSj4bnFNWTLU22oja"> </td> <td width="25%" align="center"> <span><b>Microsoft Project</b></span><br><br> <img height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4acrD0q110pSYKdf4IBTxHTraqUpKABvrw&s"> </td> </tr> </tbody> </table>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
