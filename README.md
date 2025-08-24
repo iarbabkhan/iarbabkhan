@@ -1,4 +1,3 @@
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 ![techstack](https://miro.medium.com/1*5YZ0iRIg34qXgH5ja5nNbA.gif)
 <h1 align="center">Hi 👋, I'm Arbab Khan</h1>
 <h3 align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
