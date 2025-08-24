@@ -2,24 +2,24 @@
   <img src="https://miro.medium.com/1*5YZ0iRIg34qXgH5ja5nNbA.gif" alt="Centered Image" />
 </p>
 <h1 align="center">Hi 👋, I'm Arbab Khan</h1>
-<h3 align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
+<h3 align="center">A passionate project manager continuously striving to enhance my skills in planning, executing, and delivering successful projects. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-- 🔭 I’m currently working on **MEIL**
+- 🔭 I’m currently managing Wind Turbine Project on **Suzlon Group**
 
-- 🌱 I’m currently learning **DevOps, Cloud and Python**
+- 🌱 I’m currently learning **Agile, Scrum, Risk Management, and Stakeholder Engagement**
 
-- 🤝 I’m looking for help with **AWS & Kubernetes**
+- 🤝 I’m looking for collaboration on **Project Planning & Resource Management**
 
-- 👨‍💻 All of my projects are available at [https://iamarbabkhan.github.io/](https://iamarbabkhan.github.io/)
+- 👨‍💻 All of my projects are available at [https://iarbabkhan.github.io/](https://iarbabkhan.github.io/)
 
-- 💬 Ask me about **AWS, DevOps, Version control, Configuration management, IAC, CI/CD, Containerization.**
+- 💬 Ask me about **Project Lifecycle, Agile Methodologies, Risk Mitigation, Communication Plans, and Team Leadership**
 
 - 📫 How to reach me **iarbabkhan@yahoo.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com)
 
-- ⚡ Fun fact **Did you know? in the world of DevOps, we're not just breaking down silos; we're building bridges between teams! 🌉**
+- ⚡ Fun fact **In project management, we're not just meeting deadlines; we're aligning visions and enabling success! 🌉**
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
