@@ -23,49 +23,6 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-- **Programming languages**:
-
-   <table>
-   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-   </tbody>
-   </table>
-
-- **Operating Systems**:
-
-  <table>
-   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗪𝗶𝗻𝗱𝗼𝘄𝘀</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg">
-       </td>
-    </tr>
-   </tbody>
-   </table>
-
-- **Cloud Hosting**:
-
-   <table>
-   <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝐀𝐰𝐬</span><br><br>
-        <img height="45px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-    </tr>
-   </tbody>
-   </table>
-
 - **Softwares and Tools**:
 
    <table>
