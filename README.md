@@ -24,7 +24,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 - **Softwares and Tools**:
-- 
+ 
    <table> <tbody> <tr valign="top"> <td width="25%" align="center"> <span><b>Primavera P6</b></span><br><br> <img height="45px" src="https://play-lh.googleusercontent.com/z87Px8yV2bVg3QHSIXWUxsitJidAugYKpXIiL2vaKaKe-3TjaEAPSj4bnFNWTLU22oja"> </td> <td width="25%" align="center"> <span><b>Microsoft Project</b></span><br><br> <img height="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4acrD0q110pSYKdf4IBTxHTraqUpKABvrw&s"> </td> </tr> </tbody> </table>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
