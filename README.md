@@ -1,4 +1,6 @@
-![image](https://miro.medium.com/1*5YZ0iRIg34qXgH5ja5nNbA.gif)
+<p align="center">
+  <img src="https://miro.medium.com/1*5YZ0iRIg34qXgH5ja5nNbA.gif" alt="Centered Image" />
+</p>
 <h1 align="center">Hi 👋, I'm Arbab Khan</h1>
 <h3 align="center">A passionate about DevOps and continuously striving to enhance my skills in the exciting world of development and operations. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
 
