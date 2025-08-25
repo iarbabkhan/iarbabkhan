@@ -38,4 +38,4 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamarbabkhan&" alt="iamarbabkhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iarbabkhan&" alt="iarbabkhan" /></p>
