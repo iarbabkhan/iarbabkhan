@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/1*5YZ0iRIg34qXgH5ja5nNbA.gif" alt="Centered Image" />
 </p>
 <h1 align="center">Hi 👋, I'm Arbab Khan</h1>
-<h3 align="center">A passionate project Planner continuously striving to enhance my skills in planning, executing, and delivering successful projects. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
+<h3 align="center">A passionate project planner continuously striving to enhance my skills in planning, executing, and delivering successful projects. This README.md file serves as a snapshot of my journey, showcasing my interests, projects, and learning milestones.</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 I’m currently managing Wind Turbine Project at the **Suzlon Group**
